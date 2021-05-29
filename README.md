@@ -16,4 +16,4 @@ My first Android Apllication is on a basic Todo list app. Planify is where a use
 <img src="https://user-images.githubusercontent.com/66111412/120059545-e91fa480-c06f-11eb-8c19-0f3cbf9594bf.gif" height="20%" width = "20%"/>
 
 <p>Changing Theme</p>
-<img srs="https://user-images.githubusercontent.com/66111412/120059651-7662f900-c070-11eb-887f-809953b20e0f.gif" height="20%" width = "20%"/>
+<img src="https://user-images.githubusercontent.com/66111412/120059651-7662f900-c070-11eb-887f-809953b20e0f.gif" height="20%" width = "20%"/>
