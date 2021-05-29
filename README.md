@@ -1,6 +1,6 @@
 # todo_app_new
 
-A new Flutter project.
+My first Android Apllication is on a basic Todo list app. Planify is where a user can add tasks and delete tasks. A notification pops up when a task is added and the time is expired.
 
 ## Getting Started
 
